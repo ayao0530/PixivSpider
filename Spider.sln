@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider", "Spider\Spider.csproj", "{C7EED211-25FB-4A79-A7DC-40519D446F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpHelper", "HttpHelper\HttpHelper.csproj", "{8F70C646-7BE5-44B7-8A26-D254E8058875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{FA56C82B-8E03-4416-836D-7973732C9CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7EED211-25FB-4A79-A7DC-40519D446F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EED211-25FB-4A79-A7DC-40519D446F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EED211-25FB-4A79-A7DC-40519D446F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EED211-25FB-4A79-A7DC-40519D446F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F70C646-7BE5-44B7-8A26-D254E8058875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F70C646-7BE5-44B7-8A26-D254E8058875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F70C646-7BE5-44B7-8A26-D254E8058875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F70C646-7BE5-44B7-8A26-D254E8058875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA56C82B-8E03-4416-836D-7973732C9CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA56C82B-8E03-4416-836D-7973732C9CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA56C82B-8E03-4416-836D-7973732C9CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA56C82B-8E03-4416-836D-7973732C9CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E61203-A11C-4AA7-B3A0-F946F8CA76D2}
+	EndGlobalSection
+EndGlobal
