@@ -54,7 +54,6 @@
     <Compile Include="DataEnum.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="HttpRequestHelper.cs" />
-    <Compile Include="JsonHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
