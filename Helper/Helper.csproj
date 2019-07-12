@@ -51,7 +51,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataEnum.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="HttpRequestHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
